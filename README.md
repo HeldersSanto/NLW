@@ -1,14 +1,28 @@
 # Projeto de aplicativo para o evento DoWhile
 
 Principais tecnologias usadas no back-end:
+
+
 NodeJS
+
+
 Express
+
+
 Prisma (para banco de dados)
+
+
 TypeScript
 
 Principais tecnologias usadas no front-end:
+
+
 ReactJS
+
+
 TypeScript
+
+
 Axios
 
 ### Ao usar este código certifique-ce:
