@@ -2,26 +2,20 @@
 
 Principais tecnologias usadas no back-end:
 
-
 NodeJS
-
 
 Express
 
-
 Prisma (para banco de dados)
 
-
 TypeScript
+
 
 Principais tecnologias usadas no front-end:
 
-
 ReactJS
 
-
 TypeScript
-
 
 Axios
 
