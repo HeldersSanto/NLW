@@ -19,7 +19,7 @@ TypeScript
 
 Axios
 
-### Ao usar este código certifique-ce:
+### Ao usar este código certifique-se:
 - Altere os ID no arquivo _.env_ na pasta _nlw-heat-node-master_
 - Instale as dependências.
 - Rode o comando _yarn prisma migrate dev_, para atualizar o banco de dados  
